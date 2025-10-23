@@ -5,8 +5,8 @@
 const CONFIG = {
     // Replace this URL with your deployed Google Apps Script Web App URL
     // Instructions in DEPLOYMENT.md
-    googleScriptURL: 'YOUR_GOOGLE_SCRIPT_URL_HERE',
-    enableTracking: false // Set to true once you configure Google Script
+    googleScriptURL: 'https://script.google.com/macros/s/AKfycbwBV-rho65YtyWoiIe27wDUSszOvmCFQQ5CFrJCE3yCSG964ZqXvxchMAHTvHUfd6wHMA/exec',
+    enableTracking: true // Set to true once you configure Google Script
 };
 
 // Track user interactions
